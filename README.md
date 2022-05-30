@@ -1,0 +1,2 @@
+# FirsSolo
+Project solo try
